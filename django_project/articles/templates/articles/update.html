@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% load bootstrap5 %}
+
+{% block content %}
+  <h1>UPDATE</h1>
+  <form action="" method="POST" enctype="multipart/form-data">
+    {% csrf_token %}
+    {% bootstrap_form form %}
+    <button class="btn btn-primary mt-2" type="submit">제출</button>
+  </form>
+  <hr>
+  <a class="btn btn-dark" href="{% url 'articles:index' %}">back</a>
+{% endblock %}

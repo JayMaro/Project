@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <h1 class="fw-bold mb-5">{{ profile_user.username }}'s Profile</h1>
+  {% if request.user.is_authenticated %}
+    {% if request.user != profile_user %}
+      <form action="{% url 'accounts:follow' profile_user.username %}" method="POST">
+        {% csrf_token %}
+        {% if request.user in profile_user.followers.all %}
+          <button class="btn btn-outline-danger btn" type="submit">Unfollow</button>
+        {% else %}
+          <button class="btn btn-outline-success btn" type="submit">Follow</button>
+        {% endif %}
+
+      </form>
+    {% endif %}
+  {% endif %}
+
+  <p class="fs-3 ms-4">팔로잉 {{ profile_user.followings.all|length }} 명</p>
+  <p class="fs-3 ms-4">팔로워 {{ profile_user.followers.all|length }} 명</p>
+  <p class="fs-3 ms-4">게시물 수 {{ profile_user.article_set.all|length }} 개</p>
+  <p class="fs-3 ms-4">댓글 수 {{ profile_user.comment_set.all|length }} 개</p>
+  <a class="btn btn-dark ms-4" href="{% url 'articles:index' %}">back</a>
+{% endblock content %}
