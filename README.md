@@ -1,6 +1,6 @@
 ## 프로젝트
 
-### 🔰[GIS 활용 프로젝트][https://github.com/JayMaro/Project/tree/master/GIS%20%ED%99%9C%EC%9A%A9%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8]
+### 🔰[GIS 활용 프로젝트](https://github.com/JayMaro/Project/tree/master/GIS%20%ED%99%9C%EC%9A%A9%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 
 - 작업툴 : `Q-GIS`
 - 인원 : 1명
