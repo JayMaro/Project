@@ -41,9 +41,7 @@
 - 인원 : 4명
 - 기간 : 2020.10 - 2020.12
 - 내용 : 
-
   - Matlab을 활용한 Deeplearning 프로젝트 진행
-
   -  흉부 X-ray 사진을 이용한 코로나 폐렴 정상 상태 판독 프로그램 구현
 - 최종 결과물 : 상단 link 참조
 
@@ -52,15 +50,10 @@
 ### 🔰Simple Django Project
 
 - 사용언어 : `Python`, `HTML`, `CSS`
-
 - 작업툴 : `Django`, `BootStrap`
-
 - 인원 : 1명
-
 - 기간 : 2021.05 - 2020.05
-
 - 내용 : SSAFY에서 배운 Django 프레임워크를 이용해 MTV 패턴을 가진 게시판 구현
-
 - 최종 결과물 : 상단 link 참조
 
 
