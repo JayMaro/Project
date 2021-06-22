@@ -17,7 +17,7 @@
 
 
 
-### 🔰[종합설계프로젝트](https://github.com/JayMaro/Project/tree/master/%EC%98%81%ED%99%94%20%EA%B2%80%EC%83%89%2C%20%EC%B6%94%EC%B2%9C%2C%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EC%A0%9C%EC%9E%91)
+### 🔰[종합설계프로젝트](https://github.com/JayMaro/Project/tree/master/matlab%20deeplearning%20%EC%A2%85%ED%95%A9%EC%84%A4%EA%B3%84%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 
 - 사용언어 : `Matlab`
 - 작업툴 : `Matlab`
