@@ -1,6 +1,6 @@
 ## 프로젝트
 
-### 🔰영화 검색, 추천, 커뮤니티 사이트 제작 - MoviEver
+### 🔰[영화 검색, 추천, 커뮤니티 사이트 제작 - MoviEver](https://github.com/JayMaro/Project/tree/master/%EC%98%81%ED%99%94%20%EA%B2%80%EC%83%89%2C%20%EC%B6%94%EC%B2%9C%2C%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EC%A0%9C%EC%9E%91)
 
 - 사용언어 : `Python`, `JavaScript`, `HTML`, `CSS`
 - 작업툴 : `VS Code`, `Chrome`,`Vue`,`Django`,`BootStrap`
@@ -17,7 +17,7 @@
 
 
 
-### 🔰종합설계프로젝트
+### 🔰[종합설계프로젝트](https://github.com/JayMaro/Project/tree/master/%EC%98%81%ED%99%94%20%EA%B2%80%EC%83%89%2C%20%EC%B6%94%EC%B2%9C%2C%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EC%A0%9C%EC%9E%91)
 
 - 사용언어 : `Matlab`
 - 작업툴 : `Matlab`
@@ -31,7 +31,7 @@
 
 
 
-### 🔰Unity 활용 게임만들기
+### 🔰[Unity 활용 게임만들기](https://github.com/JayMaro/Project/tree/master/Unity%20to%20make%20Android%20game)
 
 - 사용언어 : `C#`, `C++`
 - 작업툴 : `Unity`
@@ -42,7 +42,7 @@
 
 
 
-### 🔰Simple Deeplearning Project
+### 🔰[Simple Deeplearning Project](https://github.com/JayMaro/Project/tree/master/Deeplearning%20project)
 
 - 사용언어 : `Python`
 - 작업툴 : `Jupyter Notebook`, `Google Colab`
