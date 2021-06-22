@@ -61,6 +61,12 @@
 
 
 
+### 1.1 진행 방법
+
+- Notion을 이용해 기능별로 나누어 구현하고 진행중, 완료를 통해 상태를 나타냄
+
+- ![image-20210622113629852](README.assets/image-20210622113629852.png)
+
 
 ## 2. 목표 서비스 구현 및 실제 구현 정도
 
@@ -233,11 +239,30 @@
 
 ![image-20210527110630502](README.assets/image-20210527110630502.png)
 
+## 5. I.A(Information Architecture, 정보구조도)
 
 
 
+![IA](README.assets/IA.JPG)
 
-## 5. 느낀점
+- 빨간색 - 페이지
+- 주황색 - 기능
+- 노란색 - 항목
+
+
+
+## 6. 배포
+
+- AWS 서비스와 Netlify를 사용해 배포
+- AWS에는 Django 서버를, Netlify에는 Vue 서버를 생성
+- AWS의 Cloud9을 이용해 EC2인스턴스를 만들고 Django 파일을 git에서 받고 수정 - [장고서버](https://github.com/JayMaro/Django-server)
+
+- Netlify의 서버가 HTTPS이기 때문에 HTTPS로 설정하기 위해 도메인 구입과 보안 설정(같은 HTTPS가 아니면 오류가 발생)
+- Netlify에서 Vue 파일을 받아와 [MoviEver](https://moviever.netlify.app/)사이트를 생성 - [뷰서버](https://github.com/JayMaro/Vue_client)
+- 배포 결과
+  - ![image-20210622122607244](README.assets/image-20210622122607244.png)
+
+## 느낀점
 
 - 이유진
 
