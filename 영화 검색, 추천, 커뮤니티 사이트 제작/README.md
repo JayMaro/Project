@@ -1,5 +1,24 @@
 
 
+# :movie_camera: 영화 검색, 추천, 커뮤니티 사이트 제작 - MoviEver
+
+- 사용언어 : `Python`, `JavaScript`, `HTML`, `CSS`
+- 작업툴 : `VS Code`, `Chrome`,`Vue`,`Django`,`BootStrap`
+- 인원 : 2명
+- 기간 : 2021.05.21. ~ 2021.05.27.
+- 내용 : 
+  - 삼성 삼성 청년 소프트웨어 아카데미(이하 SSAFY)에서 교육과정 수료 후 진행되는 팀 프로젝트
+  - 영화에 대한 기본 정보와 검색기능
+  - CF(Collaborative Filtering)알고리즘을 통한 영화 추천 서비스 제공
+  - 회원제로 운영하는 커뮤니티 사이트 제공
+  - ~~사용자 편의 성을 위해 카카오 로그인(인증키 발급까지 성공 but JWT 토큰 인증 불가 이슈)~~
+  - ~~카카오 맵을 통한 주변 영화관 검색 기능 제공(현재 API키가 만료되어 실행되지 않음)~~
+- 배포 URL : https://moviever.netlify.app/ => 현재 AWS 서버를 닫아 영화 Vue client만 작동
+
+
+
+
+
 # 🛫 MoviEver🚀
 
 ---
